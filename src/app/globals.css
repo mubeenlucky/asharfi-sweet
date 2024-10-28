@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-img{background-image: url("../../public/ai\ 5.jpg");}
+.new-h{
+    background-image: url("../../public/ai\ 5.jpg");
+}
+.ol-h{background-image: url("../../public/ol5.jpeg");}
+
+.nv-h{
+  background-image: url("/ol5.jpeg");
+}
