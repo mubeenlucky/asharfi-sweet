@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.custom-img{background-image: url("../../public/ai\ 5.jpg");}
+.custom-img{background-image: url("../../public/ai\ 5.jpg");
+}
 .new-h{
     background-image: url("../../public/ai\ 5.jpg");
 }
